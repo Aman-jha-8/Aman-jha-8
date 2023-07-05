@@ -1,5 +1,4 @@
 ![](https://github.com/Amanjha8503/Amanjha8503/blob/main/bnr.png)
-![](https://github.com/Amanjha8503/Amanjha8503/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Aman Jha</h1>
 <h3 align="center">A passionate  C.S.E Student .</h3>
 <h3 align="center">Great to see you here!!! .</h3>
