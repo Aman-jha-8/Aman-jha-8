@@ -1,25 +1,25 @@
-![](https://github.com/Amanjha8503/Amanjha8503/blob/main/bnr.png)
+![](https://github.com/amannjhaa77777/amannjhaa77777/blob/main/bnr.png)
 <h1 align="center">Hi 👋, I'm Aman Jha</h1>
 <h3 align="center">A passionate  C.S.E Student .</h3>
 <h3 align="center">Great to see you here!!! .</h3>
-<!-- Typing SVG by Amanjha8503 - https://github.com/Amanjha8503/readme-typing-svg -->
+<!-- Typing SVG by amannjhaa77777 - https://github.com/amannjhaa77777/readme-typing-svg -->
 <p align="left">
-  <a href="https://github.com/Amanjha8503/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Aman%20Jha%20!;I%20Like%20to%20Explore%20new%20Coding%20Languages;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
+  <a href="https://github.com/amannjhaa77777/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Aman%20Jha%20!;I%20Like%20to%20Explore%20new%20Coding%20Languages;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
 </p>
 <!--  -->
-<img align="right" alt="Coding" Width="450" src="https://github.com/Amanjha8503/Amanjha8503/blob/main/code.gif"
+<img align="right" alt="Coding" Width="450" src="https://github.com/amannjhaa77777/amannjhaa77777/blob/main/code.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmanJha8503@&label=Profile%20views&color=0e75b6&style=flat" alt="AmanJha8503" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amannjhaa77777@&label=Profile%20views&color=0e75b6&style=flat" alt="amannjhaa77777" /> </p>
 
-- 🔭 I’m currently pursuing my Bachelor in  Computer Science and I am working on [Portfolio website](https://amanjha8503.github.io/MyPortfolio/)
+- 🔭 I’m currently pursuing my Bachelor in  Computer Science and I am working on [Portfolio website](https://amannjhaa77777.github.io/MyPortfolio/)
 
 - 🌱 I’m currently learning **JAVA,C++,HTML,CSS,JavaScript,MongoDB,BootStrap,Expess.js, Node.js**
 
 - 👯 I’m looking to collaborate on **Frontened Projects**
 
-- 🔭 I’m currently working on [Notes Keeping Application](https://amanjha8503.github.io/NotesKeepingApplication/)
+- 🔭 I’m currently working on [Notes Keeping Application](https://amannjhaa77777.github.io/NotesKeepingApplication/)
 
-- 👨‍💻 All of my projects are available at [https://amanjha8503.github.io/MyPortfolio/](https://amanjha8503.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://amannjhaa77777.github.io/MyPortfolio/](https://amannjhaa77777.github.io/MyPortfolio/)
 
 - 📫 You can reach me Through Linkedin **https://www.linkedin.com/in/aman-jha-07334a254/**
 
@@ -56,24 +56,24 @@ else {
 ## Productivity Stats📈:
 <table>
   <tr>
-    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amanjha8503&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
+    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amannjhaa77777&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
    </tr>
 </table>
 
 <!--
-<a href="https://github.com/Amanjha8503/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Amanjha8503&theme=react-dark&area=true&hide_border=true" width="100%">
+<a href="https://github.com/amannjhaa77777/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=amannjhaa77777&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>-->
 </p>
 
 <br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amanjha8503&theme=darkhub" alt="Amanjha8503" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amannjhaa77777&theme=darkhub" alt="amannjhaa77777" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Amanjha8503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Amanjha8503" height="30" width="40" /></a>
+<a href="https://twitter.com/amannjhaa77777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amannjhaa77777" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aman-jha-07334a254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurangagrawal1" height="30" width="40" /></a>
 <a href="https://instagram.com/amanjha8503?igshid=ZGUzMzM3NWJiOQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aman Jha" height="30" width="40" /></a><br>
 <h3 align="left">Coding Profiles:</h3>
@@ -128,22 +128,22 @@ else {
 
 
 
- <!-- ![An image of @Amanjha8503's Leetcode badges, which is a link to view their full Leetcode profile](https://holopin.me/Amanjha8503) -->
+ <!-- ![An image of @amannjhaa77777's Leetcode badges, which is a link to view their full Leetcode profile](https://holopin.me/amannjhaa77777) -->
 
- ![An image of @Amanjha8503's Leetcode badges, which is a link to view their full Leetcode profile](https://leetcode-badge-showcase.vercel.app/api?username=Aman_jha_)
+ ![An image of @amannjhaa77777's Leetcode badges, which is a link to view their full Leetcode profile](https://leetcode-badge-showcase.vercel.app/api?username=Aman_jha_)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanjha8503&theme=radical&show_icons=true&locale=en&layout=compact" alt="Amanjha8503" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amannjhaa77777&theme=radical&show_icons=true&locale=en&layout=compact" alt="amannjhaa77777" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Amanjha8503&theme=transparent&show_icons=true&locale=en" alt="Amanjha8503" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amannjhaa77777&theme=transparent&show_icons=true&locale=en" alt="amannjhaa77777" /></p>
 <br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanjha8503&theme=radical" alt="Amanjha8503" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amannjhaa77777&theme=radical" alt="amannjhaa77777" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanjha8503&show_icons=true&locale=en&layout=compact" alt="amanjha8503" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amannjhaa77777&show_icons=true&locale=en&layout=compact" alt="amannjhaa77777" /></p>
 
 
-[snake]: https://github.com/Amanjha8503/Amanjha8503/blob/output/snake.svg
-[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=Amanjha8503&theme=react-dark&hide_border=false&area=true
+[snake]: https://github.com/amannjhaa77777/amannjhaa77777/blob/output/snake.svg
+[graph]: https://github-readme-activity-graph.cyclic.app/graph?username=amannjhaa77777&theme=react-dark&hide_border=false&area=true
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
