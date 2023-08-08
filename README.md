@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [Notes Keeping Application](https://aman-jha-8.github.io/NotesKeepingApplication/)
 
-- 👨‍💻 All of my projects are available at [https://aman-jha-8.github.io/MyPortfolio/](https://aman-jha-8.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [https://aman-jha-8.github.io/portfolio/](https://aman-jha-8.github.io/portfolio/)
 
 - 📫 You can reach me Through Linkedin **https://www.linkedin.com/in/aman-jha-07334a254/**
 
