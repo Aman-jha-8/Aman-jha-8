@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-jha-8@&label=Profile%20views&color=0e75b6&style=flat" alt="aman-jha-8" /> </p>
 
-- 🔭 I’m currently pursuing my Bachelor in  Computer Science and I am working on [Portfolio website](https://aman-jha-8.github.io/MyPortfolio/)
+- 🔭 I’m currently pursuing my Bachelor in  Computer Science and I am working on [Portfolio website](https://aman-jha-8.github.io/portfolio/)
 
 - 🌱 I’m currently learning **JAVA,C++,HTML,CSS,JavaScript,MongoDB,BootStrap,Expess.js, Node.js**
 
@@ -125,10 +125,6 @@ else {
 
 <br><br><br><br>
 
-
-
-
- <!-- ![An image of @aman-jha-8's Leetcode badges, which is a link to view their full Leetcode profile](https://holopin.me/aman-jha-8) -->
 
  ![An image of @aman-jha-8's Leetcode badges, which is a link to view their full Leetcode profile](https://leetcode-badge-showcase.vercel.app/api?username=Aman_jha_)
 
